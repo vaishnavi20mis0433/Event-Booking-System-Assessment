@@ -1,0 +1,8 @@
+{
+  "env": {
+    "MONGO_USER": "superjb ",
+    "MONGO_PASSWORD": "6FGE7yuQagC6JIcH",
+    "MONGO_DATABASE": "events-graphql-react-dev",
+    "JWT_SECRET": "somesupersecret"
+  }
+}
